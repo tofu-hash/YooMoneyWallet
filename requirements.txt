@@ -1,0 +1,2 @@
+YooMoney==0.1.0
+aiogram==2.21
